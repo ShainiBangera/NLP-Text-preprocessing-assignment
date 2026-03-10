@@ -12,10 +12,5 @@ Two paragraphs of text containing multiple punctuation marks.
 - Stemming
 - Lemmatization
 
-# Tools Used
-- Python
-- NLTK
-- Google Colab
-
 # Output
 Cleaned and processed text after applying preprocessing techniques.
